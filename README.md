@@ -17,9 +17,9 @@
 </details>
 
 ### Lengauge & Tools :
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/php.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/javascript.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/git.svg" />
+<img width="100%" src="https://unpkg.com/simple-icons@v3/icons/php.svg" />
+<img width="100%" src="https://unpkg.com/simple-icons@v3/icons/javascript.svg" />
+<img width="100%" src="https://unpkg.com/simple-icons@v3/icons/git.svg" />
 
 
 
