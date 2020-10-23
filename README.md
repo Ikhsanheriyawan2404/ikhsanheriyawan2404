@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <details>
   <summary>:zap: Github Stats</summary>
-  <img align="left" src="https://ikhsanheriyawan24.vercel.app?username=ikhsanheriyawan2404&show_icons=true&hide_border=true" />
+  <img align="left" alt="nfasdf" src="https://ikhsanheriyawan24.vercel.app?username=ikhsanheriyawan2404&show_icons=true&hide_border=true" />
 </details>
 
 
