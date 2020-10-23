@@ -13,7 +13,7 @@
 ### Lengauge & Tools :
 <p>
 
-  <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/html.svg" />
+  <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/html5.svg" />
   <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/php.svg" />
   <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/laravel.svg" />
   <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/codeigniter.svg" />
