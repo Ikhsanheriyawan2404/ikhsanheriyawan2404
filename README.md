@@ -8,8 +8,8 @@
 <hr>
 ### ![My Github Stats]
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Ikhsan Github Stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Ikhsan Github Stats](https://ikhsanheriyawan24.vercel.app/api?username=ikhsanheriyawan2404)](https://github.com/anuraghazra/github-readme-stats)
 
 <details>
   <summary>:zap: Github Stats</summary>
