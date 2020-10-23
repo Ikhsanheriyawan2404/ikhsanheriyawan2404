@@ -12,11 +12,14 @@
 [![Ikhsan Github Stats](https://ikhsanheriyawan24.vercel.app/api?username=Ikhsanheriyawan2404)]
 
 <details>
-  <summary>:zap: Github Stats</summary>
+  <summary>:zap: My Secret</summary>
   <img align="left" alt="nfasdf" src="https://ikhsanheriyawan24.vercel.app?username=ikhsanheriyawan2404&show_icons=true&hide_border=true" />
 </details>
 
-### Lengauge & Tools
+### Lengauge & Tools :
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/php.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/javascript.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/git.svg" />
 
 
 
