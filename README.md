@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="left" src="https://ikhsanheriyawan24.vercel.app?username=ikhsanheriyawan2404">
+### Hi there 👋 I'am Ikhsan H
+<img align="left" src="https://ikhsanheriyawan24.vercel.app?username=ikhsanheriyawan2404&show_icons=true&hide_icons=true" />
 
