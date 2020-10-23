@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### My Github Stats
-<img align="left" src="https://ikhsanheriyawan24-git-main.ikhsanheriyawan2404.vercel.app?username=ikhsanh&show_icons=true&hide_border=true" />
+<img align="left" src="https://ikhsanheriyawan24.vercel.app?username=ikhsanheriyawan2404&show_icons=true&hide_border=true" />
 
 
