@@ -9,12 +9,14 @@
 ### ![My Github Stats]
 
 [![Ikhsan Github Stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)]
-[![Ikhsan Github Stats](https://ikhsanheriyawan24.vercel.app/api?username=ikhsanheriyawan2404)]
+[![Ikhsan Github Stats](https://ikhsanheriyawan24.vercel.app/api?username=Ikhsanheriyawan2404)]
 
 <details>
   <summary>:zap: Github Stats</summary>
   <img align="left" alt="nfasdf" src="https://ikhsanheriyawan24.vercel.app?username=ikhsanheriyawan2404&show_icons=true&hide_border=true" />
 </details>
+
+### Lengauge & Tools
 
 
 
