@@ -9,7 +9,7 @@
 ### ![My Github Stats]
 
 [![Ikhsan Github Stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)]
-[![Ikhsan Github Stats](https://ikhsanheriyawan24.vercel.app/api?username=ikhsanheriyawan2404)](https://github.com/anuraghazra/github-readme-stats)
+[![Ikhsan Github Stats](https://ikhsanheriyawan24.vercel.app/api?username=ikhsanheriyawan2404)]
 
 <details>
   <summary>:zap: Github Stats</summary>
