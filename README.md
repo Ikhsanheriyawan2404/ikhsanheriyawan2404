@@ -2,9 +2,9 @@
 
 - 🔭 I’m currently working on my bed
 - 🌱 I’m currently learning PHP & JavaScript
-- 🤔 I’m looking for help with of course with google search engine
+- 🤔 I’m looking for help of course with google search engine
 - 💬 Ask me about my food
-- ⚡ Fun fact: watching hentai
+- ⚡ Fun fact: i like watching hentong
 <hr>
 ### My Github Stats
 
