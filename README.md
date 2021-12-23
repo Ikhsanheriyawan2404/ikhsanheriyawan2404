@@ -1,5 +1,7 @@
 ### Hi there 👋 I'am Ikhsan H
 
+![contributions](https://user-images.githubusercontent.com/58973880/147286302-125706ce-eb8e-4315-950d-5ad103a888db.gif)
+
 - 🔭 I’m currently working on my bed
 - 🌱 I’m currently learning PHP & JavaScript
 - 🤔 I’m looking for help with google search engine
