@@ -5,12 +5,9 @@
 - 🔭 I’m currently working on my bed
 - 🌱 I’m currently learning PHP & JavaScript
 - 🤔 I’m looking for help with google search engine
-- 💬 Ask me about my food
-- ⚡ Fun fact: i love human
-<hr>
-### My Github Stats
+- 💬 Ask me about game, guitar, coding
 
-[![Ikhsan Github Stats](https://ikhsanheriyawan24.vercel.app/api?username=Ikhsanheriyawan2404)]
+<hr>
 
 ### Lengauge & Tools :
 <p>
