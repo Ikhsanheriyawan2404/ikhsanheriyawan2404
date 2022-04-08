@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on my bed
 - 🌱 I’m currently learning PHP & JavaScript
 - 🤔 I’m looking for help with google search engine
-- 💬 Ask me about game, guitar, coding
+- 💬 Ask me about game, guitar, or coding
 
 <hr>
 
