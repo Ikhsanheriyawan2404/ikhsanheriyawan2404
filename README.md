@@ -1,7 +1,5 @@
 ### Hi there 👋 I'm Ikhsan H
 
-[comment]: <> (![contributions](https://user-images.githubusercontent.com/58973880/147286302-125706ce-eb8e-4315-950d-5ad103a888db.gif))
-
 - 🔭 I’m currently working on my bed
 - 🌱 I’m currently learning PHP & JavaScript
 - 🤔 I’m looking for help with google search engine
@@ -22,8 +20,10 @@
   <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/laravel.svg" />
   <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/codeigniter.svg" />
   <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/javascript.svg" />
+  <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/nodejs.svg" />
   <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/jquery.svg" />
   <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/mysql.svg" />
+  <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/mongodb.svg" />
 
 </p>
 
