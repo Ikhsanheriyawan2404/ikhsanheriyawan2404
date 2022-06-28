@@ -15,12 +15,12 @@
 ### Lengauge & Tools :
 <p>
 
-  <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/html5.svg" />
+  <img height="32" width="32" src="https://unpkg.com/simple-icons@v7.3.0/icons/html5.svg" />
   <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/php.svg" />
   <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/laravel.svg" />
   <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/codeigniter.svg" />
   <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/javascript.svg" />
-  <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/nodejs.svg" />
+  <img height="32" width="32" src="https://unpkg.com/simple-icons@v7.3.0/icons/express.svg" />
   <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/jquery.svg" />
   <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/mysql.svg" />
   <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/mongodb.svg" />
