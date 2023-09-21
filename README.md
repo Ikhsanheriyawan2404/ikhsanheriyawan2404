@@ -14,8 +14,9 @@
 
 ### 🚀 Tools
 
-![GO](https://img.shields.io/badge/GOlang-0077B5?style=for-the-badge&logo=go&logoColor=black)
 ![LARAVEL](https://img.shields.io/badge/LARAVEL-E4405F?style=for-the-badge&logo=laravel&logoColor=white)
+![GO](https://img.shields.io/badge/GOlang-0077B5?style=for-the-badge&logo=go&logoColor=black)
+![TYPESCRIPT](https://img.shields.io/badge/typescript-0077B5?style=for-the-badge&logo=typescript&logoColor=white)
 ![CodeIgniter4](https://img.shields.io/badge/CodeIgniter-E44D38?style=for-the-badge&logo=codeigniter&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E44D38?style=for-the-badge&logo=html5&logoColor=white)
