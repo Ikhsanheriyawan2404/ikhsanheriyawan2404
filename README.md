@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on my bed, PLEASE HIRE ME! 
 - 🌱 I’m currently learning TypeScript & Go
-- 🤔 I’m looking for help with google search engine
+- 🤔 I’m looking for help with Google search engine, but that was back then—now it's all about using AI! Haha. 😄
 - 💬 Ask me about game, guitar, or coding
 
 <hr>
@@ -16,8 +16,8 @@
 
 ![NEST](https://img.shields.io/badge/NEST-white?style=for-the-badge&logo=nestjs&logoColor=E0234E)
 ![LARAVEL](https://img.shields.io/badge/LARAVEL-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![NODE](https://img.shields.io/badge/nodejs-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E44D38?style=for-the-badge&logo=html5&logoColor=white)
+<!-- ![NODE](https://img.shields.io/badge/nodejs-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) -->
+<!-- ![HTML](https://img.shields.io/badge/HTML-E44D38?style=for-the-badge&logo=html5&logoColor=white) -->
 <!---
 ![GO](https://img.shields.io/badge/GOlang-0077B5?style=for-the-badge&logo=go&logoColor=black)
 ![TYPESCRIPT](https://img.shields.io/badge/typescript-0077B5?style=for-the-badge&logo=typescript&logoColor=white)
@@ -25,7 +25,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikhsanheriyawan2404&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ikhsanheriyawan2404&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ikhsanheriyawan2404&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ### Language & Tools :
 <p>
@@ -38,16 +38,16 @@
   ![postgresql](https://img.shields.io/badge/-4169E1?style=for-the-badge&logo=postgresql&logoColor=black)
   ![mysql](https://img.shields.io/badge/-4479A1?style=for-the-badge&logo=mysql&logoColor=black)
   ![redis](https://img.shields.io/badge/-DC382D?style=for-the-badge&logo=redis&logoColor=black)
-  ![mongodb](https://img.shields.io/badge/-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+  <!-- ![mongodb](https://img.shields.io/badge/-47A248?style=for-the-badge&logo=mongodb&logoColor=white) -->
   ![nginx](https://img.shields.io/badge/-009639?style=for-the-badge&logo=nginx&logoColor=white)
   ![docker](https://img.shields.io/badge/-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-  ![rabbitmq](https://img.shields.io/badge/-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+  <!-- ![rabbitmq](https://img.shields.io/badge/-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) -->
   ![go](https://img.shields.io/badge/-00ADD8?style=for-the-badge&logo=go&logoColor=white)
   ![php](https://img.shields.io/badge/-777BB4?style=for-the-badge&logo=php&logoColor=white)
   ![javascript](https://img.shields.io/badge/-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![typescript](https://img.shields.io/badge/-3178C6?style=for-the-badge&logo=typescript&logoColor=black)
   ![socketdotio](https://img.shields.io/badge/-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-  ![express](https://img.shields.io/badge/-000000?style=for-the-badge&logo=express&logoColor=white)
+  <!-- ![express](https://img.shields.io/badge/-000000?style=for-the-badge&logo=express&logoColor=white) -->
   
 </p>
 
