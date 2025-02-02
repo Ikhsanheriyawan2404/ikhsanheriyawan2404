@@ -33,6 +33,7 @@
   ![GRAFANA](https://img.shields.io/badge/-F46800?style=for-the-badge&logo=grafana&logoColor=white)
   ![PROMETHEUS](https://img.shields.io/badge/-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
   ![K6](https://img.shields.io/badge/-7D64FF?style=for-the-badge&logo=k6&logoColor=white)
+  ![socketdotio](https://img.shields.io/badge/-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
   ![portainer](https://img.shields.io/badge/-13BEF9?style=for-the-badge&logo=portainer&logoColor=black)
   ![jenkins](https://img.shields.io/badge/-D24939?style=for-the-badge&logo=jenkins&logoColor=black)
   ![postgresql](https://img.shields.io/badge/-4169E1?style=for-the-badge&logo=postgresql&logoColor=black)
@@ -42,11 +43,10 @@
   ![nginx](https://img.shields.io/badge/-009639?style=for-the-badge&logo=nginx&logoColor=white)
   ![docker](https://img.shields.io/badge/-2496ED?style=for-the-badge&logo=docker&logoColor=white)
   <!-- ![rabbitmq](https://img.shields.io/badge/-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) -->
-  ![go](https://img.shields.io/badge/-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+  <!-- ![go](https://img.shields.io/badge/-00ADD8?style=for-the-badge&logo=go&logoColor=white) -->
   ![php](https://img.shields.io/badge/-777BB4?style=for-the-badge&logo=php&logoColor=white)
   ![javascript](https://img.shields.io/badge/-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![typescript](https://img.shields.io/badge/-3178C6?style=for-the-badge&logo=typescript&logoColor=black)
-  ![socketdotio](https://img.shields.io/badge/-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
   <!-- ![express](https://img.shields.io/badge/-000000?style=for-the-badge&logo=express&logoColor=white) -->
   
 </p>
